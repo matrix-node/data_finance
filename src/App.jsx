@@ -3,6 +3,8 @@ import NavBar from './components/NavBar'
 import Hero from './components/Hero'
 import Analytics from './components/Analytics'
 import Newsletter from './components/Newsletter'
+import  Cards from './components/Cards'
+import Footer from './components/Footer'
 
 const App = () => (
   <>
@@ -10,6 +12,8 @@ const App = () => (
     <Hero/>
     <Analytics/>
     <Newsletter/>
+    <Cards/>
+    <Footer/>
   </>
 )
 
