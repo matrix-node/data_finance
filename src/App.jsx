@@ -5,6 +5,7 @@ import Analytics from './components/Analytics'
 import Newsletter from './components/Newsletter'
 import  Cards from './components/Cards'
 import Footer from './components/Footer'
+import BusinessCard from './components/BusinessCard'
 
 const App = () => (
   <>
@@ -14,6 +15,7 @@ const App = () => (
     <Newsletter/>
     <Cards/>
     <Footer/>
+    <BusinessCard/>
   </>
 )
 
