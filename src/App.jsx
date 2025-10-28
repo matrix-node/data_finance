@@ -15,7 +15,6 @@ const App = () => (
     <Newsletter/>
     <Cards/>
     <Footer/>
-    <BusinessCard/>
   </>
 )
 
