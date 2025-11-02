@@ -7,7 +7,7 @@ async function main() {
     model: "gemini-2.5-flash",
     contents: "Use AAVE to make cool jokes for Gen-Z about AI.",
   });
-  console.log(response.text);
+  console.log(`response.text`);
 }
 
 await main();
