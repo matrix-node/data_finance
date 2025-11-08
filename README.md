@@ -55,7 +55,7 @@ A modern, responsive data analytics landing page built with React and Tailwind C
 - `npm run preview` - Preview the production build locally
 - `npm run lint` - Run ESLint to check code quality
 
-## 📁 Project-Structure
+## 📁 Project Structure
 
 ```
 src/
